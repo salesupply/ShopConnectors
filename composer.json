@@ -1,5 +1,5 @@
 {
-  "name": "rutgerkirkels/shopconnectors",
+  "name": "salesupply/shopconnectors",
   "type": "library",
   "description": "Library to connect to various webshops",
   "license": "MIT",
